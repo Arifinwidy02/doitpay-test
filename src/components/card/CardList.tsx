@@ -71,7 +71,7 @@ export default function CardList({ cards, isViewAll }: Props) {
           }}
         >
           <h2 style={{ color: "grey", fontSize: fluidSize(18, 24) }}>
-            No Card Added Yet
+            No Card Added Yet, Please Add New Card
           </h2>
         </div>
       ) : (
